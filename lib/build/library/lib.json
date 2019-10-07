@@ -1,0 +1,1 @@
+{"name":"lib","content":{"./node_modules/lodash/lodash.js":{"id":0,"buildMeta":{"providedExports":true}},"./src/lib.ts":{"id":2,"buildMeta":{"exportsType":"namespace","providedExports":["map"]}},"./node_modules/webpack/buildin/global.js":{"id":3,"buildMeta":{"providedExports":true}},"./node_modules/webpack/buildin/module.js":{"id":4,"buildMeta":{"providedExports":true}}}}
